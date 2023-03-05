@@ -8,8 +8,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class StudyJson {
-    String userName;
-    Integer age;
+    private String userName;
+    private Integer age;
 
     public String getUserName() {
         return userName;
